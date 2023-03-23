@@ -2,24 +2,30 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle:
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: june2022_portrait.jpg
   image_circular: false # crops the image to make it circular
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  address: ari.khoudary (at) uci.edu
 
 news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hello! Thanks for stopping by.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My name is Ari Khoudary (they/them/هي), and I'm a PhD student in the [Department of Cognitive Sciences](https://www.cogsci.uci.edu/index.php){:target="_blank"} at the [University of California, Irvine](https://uci.edu/){:target="_blank"}. I am co-advised by [Aaron Bornstein](https://aaron.bornstein.org){:target="_blank"} and [Megan Peters](https://faculty.sites.uci.edu/cnclab/){:target="_blank"}. My research aims to characterize the effects of long-term memory on perceptual decisions, with a focus on how subjective confidence in each evidence source modulates their integration. We use computational modeling of human behavior to answer this question, with plans to include neuroimaging in the near future.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I obtained a B.S. in Psychology (honors) with a second major in Philosophy from [Boston College](https://www.bc.edu){:target="_blank"} in 2019. I wrote a double-credit senior thesis (advised in Psychology by [Maureen Ritchey](http://thememolab.org){:target="_blank"} and in Philosophy by [Richard Atkins](http://rkatkins.com/){:target="_blank"}) on the epistemic reliability of episodic memory, using an original experiment on source monitoring as a case study. Then, I worked as a lab manager and research assistant in [Felipe De Brigard's](https://psychandneuro.duke.edu/people/felipe-de-brigard){:target="_blank"} [Imagination and Modal Cognition Lab](https://imclab.org){:target="_blank"} at [Duke University](https://www.duke.edu){:target="_blank"}, where I did some neuroimaging and experimental philosophy research in addition to helping Felipe and [Walter Sinnott-Armstrong](https://psychandneuro.duke.edu/people/walter-sinnott-armstrong){:target="_blank"} coordinate the [Summer Seminars in Neuroscience and Philosophy (SSNAP)](https://ssnap.net){:target="_blank"}.
+
+On a personal note, I am a queer, non-binary, Syrian-American who cares deeply about the emotional and interpersonal dimensions of scientific research. I share my thoughts in this domain on my [blog](https://ari-khoudary.github.io/blog){:target="_blank"}. I have long-standing interests in music, philosophy, food, and interdisciplinary endeavors. I also have a [cat](assets/img/stinky.jpg){:target="_blank"} who I love very much. In my free time, I enjoy hanging out with friends, appreciating nature, and daydreaming about (nearby) possible worlds.
+
+<br>
+
+---
+
+
+<br>

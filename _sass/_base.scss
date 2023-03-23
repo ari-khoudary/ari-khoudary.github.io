@@ -116,12 +116,15 @@ blockquote {
 
   .address {
     margin-bottom: 5px;
-    margin-top: 5px;
-    font-family: monospace;
+    margin-top: 0px;
+    margin-left: 30px;
+    font-size: 1rem;
+    font-family: roboto;
 
     p {
       display: inline-block;
       margin: 0;
+      align: center;
     }
   }
 }
@@ -302,11 +305,11 @@ blockquote {
   text-align: center;
 
   .contact-icons {
-    font-size: 4rem;
+    font-size: 2rem;
 
     a {
       i::before {
-        color: var(--global-text-color);
+        color: var(--global-icon-color);
         transition-property: all 0.2s ease-in-out;
       }
 
@@ -328,6 +331,7 @@ blockquote {
 footer.fixed-bottom {
   background-color: var(--global-footer-bg-color);
   font-size: 0.75rem;
+  text-align: center;
 
   .container {
     color: var(--global-footer-text-color);
