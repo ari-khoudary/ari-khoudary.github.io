@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: june2022_portrait.jpg
+  image: 2022nov_cropped.jpg
   image_circular: false # crops the image to make it circular
   address: ari.khoudary (at) uci.edu
 
