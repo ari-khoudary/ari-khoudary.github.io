@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2023-03-08
-inline: true
+inline: yes
 related_posts: false
 ---
 

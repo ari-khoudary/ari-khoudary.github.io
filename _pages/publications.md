@@ -9,6 +9,19 @@ nav_order: 1
 
 \* denotes shared authorship
 
+<br>
+
+## 2023
+
+Miceli, K.\*, Morales-Torres, R.\*, **Khoudary, A.**, Faul, L., Parikh, N., & De Brigard, F. (2023). Perceived
+plausibility modulates hippocampal activity in episodic counterfactual thinking. *Hippocampus*. [[html](https://onlinelibrary.wiley.com/doi/10.1002/hipo.23583)] [[code](https://github.com/IMC-Lab/HippModCFT)]
+
+<br>
+
+---
+
+<br>
+
 ## 2022
 
 **Khoudary, A.**, Hanna, E., O’Neill, K.G., Iyengar, V., Clifford, S., De Brigard, F.\*, Cabeza, R.\*, Sinnott-Armstrong, W.\* (2022). A Functional Neuroimaging Investigation of Moral Foundations Theory. *Social Neuroscience*, 1-17. [[html](https://www.tandfonline.com/doi/full/10.1080/17470919.2022.2148737)] [[pdf](../assets/pdf/publications/2022_khoiccdbsa_socneuro.pdf)] [[code](https://github.com/IMC-Lab/mft_memory)]
