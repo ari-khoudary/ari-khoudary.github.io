@@ -9,6 +9,10 @@ nav_order: 1
 
 \* denotes shared authorship
 
+## 2024
+
+**Khoudary, A.**, Peters, M. A. K.\*, Bornstein, A.M.\* (under revision). Reasoning goals and representational decision in computational cognitive neuroscience: a case study from bounded evidence accumulation *European Journal of Neuroscience* [[preprint](https://osf.io/preprints/psyarxiv/aqxhr)] [[code](https://github.com/ari-khoudary/time-varying-precision-weighted-msddm)]
+
 <br>
 
 ## 2023
