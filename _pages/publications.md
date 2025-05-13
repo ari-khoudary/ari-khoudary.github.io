@@ -11,7 +11,7 @@ nav_order: 1
 
 ## 2025
 
-**Khoudary, A.**, Peters, M. A. K.\*, Bornstein, A.M.\* (2025). Subjective and objective cue probability interact to shape perceptual decisions. *Proceedings of the 47th Annual Meeting of the Cognitive Sciences Society* [[pdf](../assets/pdf/publications/2025_kpb_cogsci.pdf)] [[code](https://github.com/ari-khoudary/cogsci-2025)]
+**Khoudary, A.**, Peters, M. A. K.\*, Bornstein, A.M.\* (2025). Investigating implicit and explicit expectations in perceptual decision making. *Proceedings of the 47th Annual Meeting of the Cognitive Sciences Society* [[pdf](../assets/pdf/publications/2025_kpb_cogsci.pdf)] [[code](https://github.com/ari-khoudary/cogsci-2025)]
 
 
 **Khoudary, A.**, Peters, M. A. K.\*, Bornstein, A.M.\* (2025). Reasoning goals and representational decisions in computational cognitive neuroscience: lessons from the drift diffusion model. *European Journal of Neuroscience.* [[html](https://onlinelibrary.wiley.com/doi/full/10.1111/ejn.70098)] [[pdf](../assets/pdf/publications/2025_kpb_ejn.pdf)]
